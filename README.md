@@ -16,12 +16,14 @@ WebとAIを組み合わせたプロジェクトや、ボット開発、ユーザ
 💬 経験・知識のある技術領域
 C / Python / Java / JavaScript / Dart / Flutter / TypeScript / HTML / CSS / React / Vite
 開発経験の中でも、特にボイスチャットの「沈黙」を検知し、一定時間経過後にGemini（AI）に話させるDiscord Botの開発は、ユーザー体験のデザインとして非常に興味深く、印象的なプロジェクトでした。
+URL:https://github.com/65535space/Justalk
 
 📫 連絡先
-（メールアドレスやSNSなどをご記入ください）
+namespace40@gmail.com
 
 😄 代名詞
-（ご希望の代名詞があればご記入ください）
+貪欲に生きろ
 
 ⚡ ちょっとしたエピソード
 最もやりがいを感じたプロジェクトは、FlutterとGoogle Maps APIを組み合わせた「ランダム経路生成アプリ」です。ユーザーが指定した距離に基づいて、地図上にランダムなルートを自動生成するもので、経路ランダム生成や地図連携に苦戦しながらも、実用的な価値を提供できるものに仕上げることができました。
+URL:https://github.com/65535space/rdm_destination
